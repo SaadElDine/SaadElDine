@@ -1,5 +1,5 @@
 <h1 align="center">Saad El Dine Ahmed Saad</h1>
-<h3 align="center">Student At Faculty of Engineering, Alexandria University</h3>
+<h3 align="center">Student at Faculty of Engineering, Alexandria University</h3>
 <h4 align="center">Computer & Communications Department (CCE)</h4>
 
 - Junior Software Engineer.
