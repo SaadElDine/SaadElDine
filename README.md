@@ -2,6 +2,10 @@
 <h3 align="center">Student at Faculty of Engineering, Alexandria University</h3>
 <h4 align="center">Computer & Communications Department (CCE)</h4>
 
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7471F7&random=false&width=435&lines=The+five+boxing+wizards+jump+quickly)](https://git.io/typing-svg)
+
+
 - Junior Software Engineer.
 
 - Experience with Machine Learning, Embedded Systems, Android, Frontend and Backend.
