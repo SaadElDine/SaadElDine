@@ -1,7 +1,10 @@
 <h1 align="center">Saad El Dine Ahmed Saad</h1>
 <h3 align="center">Student at Faculty Faculty Engineering, Alexandria University</h3>
 <h4 align="center">Computer & Communications Department (CCE)</h4>
+
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=033EF7&random=false&width=435&lines=Student+at+Faculty+Faculty+Engineering+,+Alexandria+University)](https://git.io/typing-svg)
+
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=033EF7&random=false&width=435&lines=Majoring+in+artificial+intellingence)](https://git.io/typing-svg)
 
