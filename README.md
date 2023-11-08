@@ -2,6 +2,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&color=0065F7&background=FFFFFF00&center=true&repeat=false&random=false&width=700&lines=Student+At+Faculty+Of+Engineering)](https://git.io/typing-svg)
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&color=0065F7&background=FFFFFF00&center=true&repeat=false&random=false&width=700&lines=Alexandria+University)](https://git.io/typing-svg)
+
 - Junior Software Engineer.
 
 - Experience with Machine Learning, Embedded Systems, Android, Frontend and Backend.
