@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=033EF7&random=false&width=435&lines=I+am+Saad+El+Dine+Ahmed)](https://git.io/typing-svg)
 
-<h3 align="center">Student at Faculty Faculty Engineering, Alexandria University</h3>
-<h4 align="center">Computer & Communications Department (CCE)</h4>
+<h3>Student at Faculty Faculty Engineering, Alexandria University</h3>
+<h4>Computer & Communications Department (CCE)</h4>
 
 - Junior Software Engineer.
 
