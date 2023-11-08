@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&color=0065F7&background=FFFFFF00&center=true&multiline=true&random=false&width=700&lines=I+am+Saad+El+Dine+Ahmed+Saad;Student+At+Faculty+Of+Engineering;Alexandria+University;Computer+And+Communications+(CCE);Majoring+in+Artificial+intelligence)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&color=0065F7&background=FFFFFF00&center=true&multiline=true&random=false&width=700&lines=I+am+Saad+El+Dine+Ahmed+Saad)](https://git.io/typing-svg)
 
 - Junior Software Engineer.
 
