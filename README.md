@@ -1,7 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=033EF7&random=false&width=435&lines=I+am+Saad+El+Dine+Ahmed+Saad)](https://git.io/typing-svg)
-
-<h3 align="center">Student at Faculty Faculty Engineering, Alexandria University</h3>
-<h4 align="center">Computer & Communications Department (CCE)</h4>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=0065F7&background=FFFFFF00&center=true&random=false&width=700&lines=I+am+Saad+El+Dine+Ahmed+Saad;Student+At+Faculty+Of+Engineering;Alexandria+University;Computer+And+Communications+(CCE);Majoring+in+Artificial+intelligence+(AI))](https://git.io/typing-svg)
 
 - Junior Software Engineer.
 
