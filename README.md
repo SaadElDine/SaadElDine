@@ -7,7 +7,7 @@
 
 - Junior Software Engineer.
 
-- Experience with Machine Learning, Embedded Systems, Android, Frontend and Backend.
+- Experience in Machine Learning, Embedded Systems, Android, Frontend and Backend.
     
 - Passionate about Artificial Intelligence, Data Science.
   
